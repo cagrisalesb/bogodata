@@ -1,0 +1,190 @@
+breeds,rank2013,rank2014,rank2015,rank2016
+Retrievers (Labrador),1,1,1,1
+German Shepherd Dogs,2,2,2,2
+Retrievers (Golden),3,3,3,3
+Bulldogs,5,4,4,4
+Beagles,4,5,5,5
+French Bulldogs,11,9,6,6
+Poodles,8,7,8,7
+Rottweilers,9,10,9,8
+Yorkshire Terriers,6,6,7,9
+Boxers,7,8,10,10
+Pointers (German Shorthaired),13,12,11,11
+Siberian Huskies,14,13,12,12
+Dachshunds,10,11,13,13
+Great Danes,16,15,15,14
+Doberman Pinschers,12,14,14,15
+Australian Shepherds,20,18,17,16
+Miniature Schnauzers,17,16,16,17
+Pembroke Welsh Corgis,24,22,20,18
+Cavalier King Charles Spaniels,18,19,18,19
+Shih Tzu,15,17,19,20
+Boston Terriers,23,23,22,21
+Pomeranians,19,20,21,22
+Havanese,25,25,24,23
+Shetland Sheepdogs,21,21,23,24
+Brittanys,30,27,26,25
+Spaniels (English Springer),28,28,27,26
+Bernese Mountain Dogs,32,32,29,27
+Mastiffs,26,26,25,28
+Spaniels (Cocker),29,30,30,29
+Chihuahuas,22,24,28,30
+Vizslas,34,34,32,31
+Pugs,31,33,33,32
+Maltese,27,29,31,33
+Weimaraners,33,35,34,34
+Newfoundlands,37,37,37,35
+Miniature American Shepherds, , , ,36
+Collies,35,36,36,37
+Border Collies,44,40,38,38
+Basset Hounds,41,42,39,39
+Cane Corso,50,48,35,40
+West Highland White Terriers,36,38,41,41
+Rhodesian Ridgebacks,39,39,40,42
+Retrievers (Chesapeake Bay),43,41,42,43
+Shiba Inu,46,47,45,44
+Bichons Frises,40,44,44,45
+Akitas,45,46,46,46
+Belgian Malinois,60,60,51,47
+Bullmastiffs,40,45,43,48
+St. Bernards,47,51,50,49
+Soft Coated Wheaten Terriers,51,49,47,50
+Portuguese Water Dogs,49,52,52,51
+Bloodhounds,48,50,49,52
+Papillons,38,43,48,53
+Australian Cattle Dogs,58,55,56,54
+Airedale Terriers,56,57,53,55
+Spaniels (English Cocker),62,62,60,56
+Bull Terriers,52,53,55,57
+Scottish Terriers,55,59,58,58
+Alaskan Malamutes,57,54,54,59
+Whippets,59,56,57,60
+Chinese Shar-Pei,54,58,59,61
+Dalmatians,64,66,62,62
+Dogues de Bordeaux,65,63,63,63
+Pointers (German Wirehaired),71,71,68,64
+Samoyeds,67,68,61,65
+Wirehaired Pointing Griffons,80,76,66,66
+Great Pyrenees,69,75,67,67
+Miniature Pinschers,53,61,64,68
+Cardigan Welsh Corgis,75,78,76,69
+Cairn Terriers,61,69,70,70
+Lhasa Apsos,63,67,65,71
+Italian Greyhounds,66,74,71,72
+Irish Wolfhounds,73,72,69,73
+Chow Chows,70,70,73,74
+Old English Sheepdogs,78,77,74,75
+Setters (Irish),72,73,72,76
+Chinese Crested,68,65,75,77
+Greater Swiss Mountain Dogs,74,80,78,78
+Giant Schnauzers,83,83,81,79
+Coton de Tulear, ,31,85,80
+American Staffordshire Terriers,76,84,77,81
+Staffordshire Bull Terriers,79,79,79,82
+Bouviers des Flandres,82,81,83,83
+Anatolian Shepherd Dogs,93,94,92,84
+Standard Schnauzers,90,90,91,85
+Border Terriers,81,85,82,86
+Retrievers (Nova Scotia Duck Tolling),97,99,99,87
+Basenjis,85,86,87,88
+Retrievers (Flat-Coated),94,92,86,89
+Russell Terriers,102,105,104,90
+Tibetan Terriers,88,88,90,91
+Keeshonden,86,87,84,92
+Pekingese,77,82,80,93
+Norwegian Elkhounds,103,103,88,94
+Leonbergers,98,104,93,95
+Rat Terriers, ,111,101,96
+Brussels Griffons,84,91,95,97
+Borzois,99,102,89,98
+Neapolitan Mastiffs,111,114,106,99
+Silky Terriers,92,101,102,100
+Fox Terriers (Wire),96,95,94,101
+Setters (English),91,89,96,102
+Norwich Terriers,89,97,103,103
+Setters (Gordon),105,100,105,104
+Spinoni Italiani,117,118,112,105
+American Hairless Terriers, , , ,106
+Belgian Tervuren,108,110,98,107
+Japanese Chin,87,93,97,108
+Parson Russell Terriers,100,116,111,109
+Spaniels (Boykin),121,108,107,110
+Welsh Terriers,104,106,108,111
+Schipperkes,109,109,109,112
+Afghan Hounds,95,98,100,113
+Lagotti Romagnoli, , , ,114
+Irish Terriers,123,125,113,115
+Toy Fox Terriers,107,115,110,116
+Pointers,114,119,114,117
+Tibetan Spaniels,106,122,115,118
+Black Russian Terriers,118,127,116,119
+Miniature Bull Terriers,125,129,121,120
+Bluetick Coonhounds,128,130,123,121
+American Eskimo Dogs,110,120,118,122
+Spaniels (Welsh Springer),124,133,128,123
+Fox Terriers (Smooth),116,124,122,124
+Salukis,115,134,132,125
+Bearded Collies,112,121,119,126
+Kerry Blue Terriers,126,128,124,127
+Black and Tan Coonhounds,113,126,127,128
+Belgian Sheepdogs,119,123,120,129
+English Toy Spaniels,135,138,129,130
+Boerboels, ,64,126,131
+Briards,127,132,130,132
+Manchester Terriers,120,136,137,133
+Norfolk Terriers,129,131,131,134
+Tibetan Mastiffs,132,135,133,135
+Australian Terriers,122,139,125,136
+Treeing Walker Coonhounds,101,112,117,137
+Bedlington Terriers,137,140,146,138
+Xoloitzcuintli,139,142,135,139
+Beaucerons,152,145,142,140
+Berger Picards, , , ,141
+Setters (Irish Red and White),145,155,148,142
+Redbone Coonhounds,133,148,139,143
+Spaniels (Clumber),131,143,134,144
+Lakeland Terriers,134,149,141,145
+German Pinschers,130,141,138,146
+Spaniels (Field),140,137,145,147
+Petits Bassets Griffons Vendeens,138,150,143,148
+Affenpinschers,143,144,136,149
+Spaniels (Irish Water),141,152,144,150
+Greyhounds,148,147,147,151
+Ibizan Hounds,151,159,160,152
+Icelandic Sheepdogs,142,146,140,153
+Scottish Deerhounds,165,157,152,154
+Sealyham Terriers,158,169,158,155
+Spaniels (American Water),144,160,157,156
+Wirehaired Vizslas, ,107,156,157
+Plotts,149,154,149,158
+Pulik,136,151,154,159
+Portuguese Podengo Pequenos,153,166,153,160
+Entlebucher Mountain Dogs,155,153,159,161
+Spanish Water Dogs, ,113,167,162
+Swedish Vallhunds,147,158,155,163
+Retrievers (Curly-Coated),163,163,151,164
+Kuvaszok,150,161,150,165
+Otterhounds,172,179,180,166
+Dandie Dinmont Terriers,168,167,172,167
+Pharaoh Hounds,160,164,171,168
+Polish Lowland Sheepdogs,157,170,164,169
+American English Coonhounds,146,156,166,170
+Lowchen,154,165,161,171
+Spaniels (Sussex),162,175,173,172
+Finnish Lapphunds,171,173,169,173
+Norwegian Buhunds,166,172,165,174
+Chinooks,156,171,177,175
+Pyrenean Shepherds,169,178,176,176
+Komondorok,159,168,163,177
+Skye Terriers,161,177,175,178
+Finnish Spitz,170,174,178,179
+Glen of Imaal Terriers,167,162,168,180
+Canaan Dogs,164,176,170,181
+Cesky Terriers,174,182,179,182
+Cirnechi dell'Etna, ,117,162,183
+Bergamasco, ,96,174,184
+Sloughis, , , ,185
+Harriers,173,181,183,186
+English Foxhounds,177,183,184,187
+Norwegian Lundehunds,175,184,182,188
+American Foxhounds,176,180,181,189
