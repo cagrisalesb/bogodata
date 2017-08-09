@@ -30,11 +30,9 @@ for row in rows:
     data['rank2013'].append( cols[4].get_text() )
 
 
-dogData = pd.DataFrame( data )
+dogData = pd.DataFrame(data)
 
 
 # dogData.to_csv('path.csv', header=True, index=False, encoding='utf-8')
 
 print (dogData)
-
-
